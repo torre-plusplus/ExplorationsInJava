@@ -5,11 +5,11 @@ Description of excercises:
 
 RecursivePermutator: Program that recursively finds all the permutations of a user supplied string.
 
-SortingAlgorithmComparison: Program that creates a random array and compares the efficiency of multiple sorting algorithms on the array.
+SortingAlgorithmComparison: Program that populates an array with random integers and compares the efficiency of multiple sorting algorithms on said array.
 
 HeronMethod: Program that approximates the square root of a number through iteration of subsequently more accurate estimates.
 
-MagicSquareMaker: Program that creates a magic square based on a user supplied integer.
+MagicSquareMaker: Program that creates a magic square based on a user supplied size.
 
 MessagingSimulator: Program that creates a user authenticated messaging system, similar to email.
 
