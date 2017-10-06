@@ -1,7 +1,7 @@
 # ExplorationsInJava
-Selected exercises in Java displaying proficiency in code structuring, algorithms, data structures and control flow.
+Selected exercises in Java displaying proficiency in code structure, algorithms, data structures, control flow and Object-Oriented design.
 
-Description of excercises:
+# Description of excercises:
 
 JavaScript Data Structures: Explorations of data structures in JavaScript. Includes Binary Trees, Heaps, Linked Lists and Hash Maps.
 
