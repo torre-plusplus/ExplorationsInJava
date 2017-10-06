@@ -21,6 +21,6 @@ RecursiveStringReverser: Program that utilizes a reverser class to recursively r
 
 TextFileReverser: Program that reverses a user supplied text file and outputs to a new file.
 
-ThreadedQue: Program that starts two synchronized threads to populate a queue of strings and to print the threads waiting in the queue.
+ThreadedQue: Program that starts two synchronized threads to populate a queue of strings and to print the string at the front the queue.
 
-TreeSetWordScanner: Program that parses words from a text file and adds them to a tree file to find all unique words.
+TreeSetWordScanner: Program that parses words from a text file and adds them to a tree set to find all unique words.
