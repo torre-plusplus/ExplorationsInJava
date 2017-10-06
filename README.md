@@ -1,4 +1,4 @@
-# ExplorationsInJava
+# Explorations In Java
 Selected exercises in Java displaying proficiency in code structure, algorithms, data structures, control flow and Object-Oriented design.
 
 # Description of excercises:
