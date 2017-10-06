@@ -3,7 +3,7 @@ Selected exercises in Java displaying proficiency in code structuring, alogrithm
 
 Description of excercises:
 
-RecursivePermutator: Program that recursively finds all the permutations of a user supplied string..
+RecursivePermutator: Program that recursively finds all the permutations of a user supplied string.
 
 SortingAlgorithmComparison: Program that creates a random array and compares the efficiency of multiple sorting algorithms on the array.
 
