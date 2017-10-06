@@ -3,6 +3,8 @@ Selected exercises in Java displaying proficiency in code structuring, alogrithm
 
 Description of excercises:
 
+JavaScript Data Structures: Explorations of data structures in JavaScript. Includes Binary Trees, Heaps, Linked Lists and Hash Maps.
+
 RecursivePermutator: Program that recursively finds all the permutations of a user supplied string.
 
 SortingAlgorithmComparison: Program that populates an array with random integers and compares the efficiency of multiple sorting algorithms on said array.
