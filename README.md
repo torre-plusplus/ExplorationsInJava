@@ -1,5 +1,5 @@
 # ExplorationsInJava
-Selected exercises in Java displaying proficiency in code structuring, alogrithms, data structures and control flow.
+Selected exercises in Java displaying proficiency in code structuring, algorithms, data structures and control flow.
 
 Description of excercises:
 
